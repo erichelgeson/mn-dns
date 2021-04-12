@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: dns
+  codec:
+    json:
+      additional-types:
+        - application/dns-json
